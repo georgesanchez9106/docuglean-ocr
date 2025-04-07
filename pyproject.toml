@@ -1,0 +1,5 @@
+[project]
+name = "docuglean-ocr"
+version = "0.1.0"
+description = "Document AI. Extract structured data like JSON, Markdown and HTML from documents using LLMs and AI agents."
+requires-python = ">=3.10"
